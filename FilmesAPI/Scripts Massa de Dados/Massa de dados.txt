@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "diretor": "Peter Jackson",
+        "genero": "Aventura",
+        "duracao": 178
+    },
+    {
+        "titulo": "O Senhor dos Anéis: As Duas Torres",
+        "diretor": "Peter Jackson",
+        "genero": "Aventura",
+        "duracao": 179
+    },
+    {
+        "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+        "diretor": "Peter Jackson",
+        "genero": "Aventura",
+        "duracao": 221
+    },
+    {
+        "titulo": "Star Wars Episódio IV: Uma Nova Esperança",
+        "diretor": "George Lucas",
+        "genero": "Aventura",
+        "duracao": 121
+
+    }
+]
